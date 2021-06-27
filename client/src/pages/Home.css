@@ -1,0 +1,43 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+   
+    padding-bottom: 10px;
+  }
+  
+h1{
+    text-align: center;
+}
+
+  button{
+    
+    width: 320px;
+    height: 50px;
+    margin-top: 15px;
+    
+  
+  }
+  
+  button:hover{
+    cursor: pointer;
+  }
+  
+
+  
+  .content{
+    align-items: center;
+    flex-direction: column;  
+    width: 1000px;
+    height: 380px;
+    border: 60px solid black;
+    margin: 10px;
+    display: flex;
+    
+    justify-content: center;
+    
+  }
+  
+  
