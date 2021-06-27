@@ -11,6 +11,6 @@ The system will have functionalities
 
 In the sql, database named "employeeleave" will have one table named "employee". 
 employee table will have columns named employeeID, name, position, casualLeave, medicalLeave and annualLeave. 
-employeeID will be the foreign key and it will automatically increment when data is added. 
+employeeID will be the primary key and it will automatically increment when data is added. 
 
-The sql file in the github should be imported within the database named employeeLeave. 
+The sql file in the github should be imported within the database named employeeleave. 
